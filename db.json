@@ -1,0 +1,1826 @@
+{
+  "historial": [
+    {
+      "id": "9b1d",
+      "compraId": 1733086850430,
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Cancelado",
+      "name": "usuario1",
+      "fecha": "2024-12-01T21:00:50.430Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 2,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          },
+          {
+            "id": "1912",
+            "name": "29190",
+            "price": "2190809",
+            "quantity": 1,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "Esquina Blanca  233 Maipu Metropolitana Chile",
+      "total": 2190909
+    },
+    {
+      "id": "c22e",
+      "compraId": 1733090248958,
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Cancelado",
+      "name": "usuario1",
+      "fecha": "2024-12-01T21:57:28.958Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 6,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "Esquina Blanca  233 Maipu Metropolitana Chile",
+      "total": 300
+    },
+    {
+      "id": "3ea2",
+      "compraId": 1733091518265,
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Cancelado",
+      "name": "usuario1",
+      "fecha": "2024-12-01T22:18:38.265Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 6,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "Esquina Blanca  233 Maipu Metropolitana Chile",
+      "total": 300
+    },
+    {
+      "id": "285d",
+      "compraId": 1733091632888,
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Cancelado",
+      "name": "usuario1",
+      "fecha": "2024-12-01T22:20:32.888Z",
+      "items": [
+        [
+          {
+            "id": "89218912",
+            "name": "20",
+            "price": "5000",
+            "quantity": 5,
+            "description": "Los Bosquinos Fuenzalida",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "Esquina Blanca  233 Maipu Metropolitana Chile",
+      "total": 25000
+    },
+    {
+      "id": "1733093569069",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Completado",
+      "name": "usuario1",
+      "fecha": "2024-12-01T22:52:49.069Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 3,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "Esquina Blanca  233 Maipu Metropolitana Chile",
+      "total": 150
+    },
+    {
+      "id": "1733096942344",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Completado",
+      "name": "juanmarchant",
+      "fecha": "2024-12-01T23:49:02.344Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 5,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 250
+    },
+    {
+      "id": "1733097045456",
+      "compraIdFuente": "674c7cb610452f7770a78cd7",
+      "estado": "Pendiente",
+      "name": "juanmarchant",
+      "fecha": "2024-12-01T23:50:45.456Z",
+      "items": [
+        [
+          {
+            "id": "abc3",
+            "name": "111",
+            "price": "111",
+            "quantity": 4,
+            "description": "Aguas Antito",
+            "code": "674c7cb610452f7770a78cd7"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 444
+    },
+    {
+      "id": "1733097716881",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Completado",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T00:01:56.881Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 3,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 150
+    },
+    {
+      "id": "1733097902973",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Completado",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T00:05:02.973Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 4,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 200
+    },
+    {
+      "id": "1733100017009",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Completado",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T00:40:17.009Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 4,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 200
+    },
+    {
+      "id": "1733100342629",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Completado",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T00:45:42.629Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 5,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 250
+    },
+    {
+      "id": "1733100469039",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Pendiente",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T00:47:49.039Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 5,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 250
+    },
+    {
+      "id": "1733100855440",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Pendiente",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T00:54:15.440Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 5,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 250
+    },
+    {
+      "id": "1733100904849",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Pendiente",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T00:55:04.849Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 5,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 250
+    },
+    {
+      "id": "1733102176985",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Pendiente",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T01:16:16.985Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 4,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 200
+    },
+    {
+      "id": "1733102379783",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Completado",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T01:19:39.783Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 6,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 300
+    },
+    {
+      "id": "1733102438467",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Completado",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T01:20:38.467Z",
+      "items": [
+        [
+          {
+            "id": "1912",
+            "name": "29190",
+            "price": "2190809",
+            "quantity": 3,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 6572427
+    },
+    {
+      "id": "1733102574873",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Pendiente",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T01:22:54.873Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 9,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 450
+    },
+    {
+      "id": "1733102806051",
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Pendiente",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T01:26:46.051Z",
+      "items": [
+        [
+          {
+            "id": "jolito",
+            "name": "100",
+            "price": "10000",
+            "quantity": 3,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 30000
+    },
+    {
+      "id": "1733103897509",
+      "compraIdFuente": "674d0dbabfed3e0cec4acf51",
+      "estado": "Completado",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T01:44:57.509Z",
+      "items": [
+        [
+          {
+            "id": "a1",
+            "name": "10",
+            "price": "1000",
+            "quantity": 3,
+            "description": "Aguas Jolito",
+            "code": "674d0dbabfed3e0cec4acf51"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 3000
+    },
+    {
+      "id": 1733144706365,
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Pendiente",
+      "name": "juanmarchant",
+      "fecha": "2024-12-02T13:05:06.365Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 3,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          },
+          {
+            "id": "1912",
+            "name": "29190",
+            "price": "2190809",
+            "quantity": 3,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          },
+          {
+            "id": "89218912",
+            "name": "20",
+            "price": "2000",
+            "quantity": 2,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 6576577
+    },
+    {
+      "id": 1733348847508,
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Completado",
+      "name": "juanmarchant",
+      "fecha": "2024-12-04T21:47:27.508Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 5,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 250
+    },
+    {
+      "id": 1733348886935,
+      "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+      "estado": "Completado",
+      "name": "juanmarchant",
+      "fecha": "2024-12-04T21:48:06.935Z",
+      "items": [
+        [
+          {
+            "id": "testing",
+            "name": "30",
+            "price": "50",
+            "quantity": 5,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          },
+          {
+            "id": "1912",
+            "name": "29190",
+            "price": "2190809",
+            "quantity": 3,
+            "description": "Los Bosquinos",
+            "code": "673d3cfcba6a3270d3cc5e69"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 6572677
+    },
+    {
+      "id": 1733351772047,
+      "compraIdFuente": "6750d8036668004f4562d8e1",
+      "estado": "Completado",
+      "name": "juanmarchant",
+      "fecha": "2024-12-04T22:36:12.047Z",
+      "items": [
+        [
+          {
+            "id": "a101",
+            "name": "15",
+            "price": "1000",
+            "quantity": 6,
+            "description": "Sebastian Aguita",
+            "code": "6750d8036668004f4562d8e1"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 6000
+    },
+    {
+      "id": 1733351882828,
+      "compraIdFuente": "6750d8036668004f4562d8e1",
+      "estado": "Cancelado",
+      "name": "juanmarchant",
+      "fecha": "2024-12-04T22:38:02.828Z",
+      "items": [
+        [
+          {
+            "id": "a101",
+            "name": "15",
+            "price": "1000",
+            "quantity": 4,
+            "description": "Sebastian Aguita",
+            "code": "6750d8036668004f4562d8e1"
+          }
+        ]
+      ],
+      "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+      "total": 4000
+    }
+  ],
+  "fuentes": [
+    {
+      "id": "0",
+      "name": "Los Bosquinos",
+      "ubi": "Av. Esq. Blanca 504",
+      "code": "673d3cfcba6a3270d3cc5e69",
+      "coordinates": {
+        "lat": -33.5110908,
+        "lng": -70.7517217
+      },
+      "products": [
+        {
+          "id": "testing",
+          "litros": "30",
+          "price": "50"
+        },
+        {
+          "id": "1912",
+          "litros": "29190",
+          "price": "2190809"
+        },
+        {
+          "id": "89218912",
+          "litros": "20",
+          "price": "2000"
+        },
+        {
+          "id": "jolito",
+          "litros": "100",
+          "price": "5000"
+        }
+      ],
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "id": "1",
+      "name": "Villa Los Heroes",
+      "ubi": "Francisco Pizarro 2349",
+      "code": "673d38736e26c07ee811720b",
+      "coordinates": {
+        "lat": -33.511006,
+        "lng": -70.756966
+      },
+      "products": [
+        {
+          "id": "b0",
+          "litros": 20,
+          "price": 1700
+        },
+        {
+          "id": "b1",
+          "litros": 10,
+          "price": 1500
+        },
+        {
+          "id": "b3",
+          "litros": 5,
+          "price": 1000
+        },
+        {
+          "id": "b2",
+          "litros": "10101",
+          "price": "21221"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Nuevo Comienzo",
+      "ubi": "Plaza Maipu",
+      "code": "674bda3c84aedcecb113db15",
+      "coordinates": {
+        "lat": -33.5104901,
+        "lng": -70.7581118
+      },
+      "products": []
+    },
+    {
+      "id": "3",
+      "name": "Aguas Antito",
+      "ubi": "Chacabuco 150",
+      "code": "674c7cb610452f7770a78cd7",
+      "coordinates": {
+        "lat": -33.5091568,
+        "lng": -70.7571479
+      },
+      "products": [
+        {
+          "id": "abc3",
+          "litros": "111",
+          "price": "111"
+        },
+        {
+          "id": "abc1",
+          "litros": "111",
+          "price": "111"
+        },
+        {
+          "id": "abc2",
+          "litros": "111",
+          "price": "111"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Aguas Jolito",
+      "ubi": "San Lucas 1842",
+      "code": "674d0dbabfed3e0cec4acf51",
+      "coordinates": {
+        "lat": -33.571716,
+        "lng": -70.8081557
+      },
+      "products": [
+        {
+          "id": "a1",
+          "litros": "10",
+          "price": "3000"
+        }
+      ],
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "id": "5",
+      "name": "",
+      "ubi": "",
+      "code": "674d12abbfed3e0cec4acf5f",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "products": []
+    },
+    {
+      "id": 6,
+      "name": "",
+      "ubi": "",
+      "code": "674d191b8dfd1e5b8f0064ab",
+      "coordinates": {
+        "lat": 0,
+        "lng": 0
+      },
+      "products": []
+    },
+    {
+      "id": 7,
+      "name": "Sebastian Aguita",
+      "ubi": "San Pedro ",
+      "code": "6750d8036668004f4562d8e1",
+      "coordinates": {
+        "lat": -33.530753,
+        "lng": -70.785753
+      },
+      "products": [
+        {
+          "id": "a101",
+          "litros": "15",
+          "price": "1000"
+        }
+      ],
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "password": "Juanxmk12",
+      "email": "Juanxmk12@gmail.com",
+      "isactive": true,
+      "historial": [
+        {
+          "compraId": 1729438265349,
+          "fecha": "2024-10-20T15:31:05.349Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 3
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 3
+              }
+            ]
+          ],
+          "total": 9600
+        },
+        {
+          "compraId": 1729449620323,
+          "fecha": "2024-10-20T18:40:20.323Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 2
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 2
+              },
+              {
+                "id": "a3",
+                "name": 5,
+                "price": 1000,
+                "quantity": 1
+              }
+            ]
+          ],
+          "total": 7400
+        },
+        {
+          "compraId": 1729449822970,
+          "fecha": "2024-10-20T18:43:42.970Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 7
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 5
+              },
+              {
+                "id": "a3",
+                "name": 5,
+                "price": 1000,
+                "quantity": 6
+              }
+            ]
+          ],
+          "total": 25400
+        },
+        {
+          "compraId": 1729453371672,
+          "fecha": "2024-10-20T19:42:51.672Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 4
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 3
+              },
+              {
+                "id": "a3",
+                "name": 5,
+                "price": 1000,
+                "quantity": 3
+              }
+            ]
+          ],
+          "total": 14300
+        },
+        {
+          "compraId": 1729717736325,
+          "fecha": "2024-10-23T21:08:56.325Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 3
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 3
+              }
+            ]
+          ],
+          "total": 9600
+        },
+        {
+          "compraId": 1729727797144,
+          "fecha": "2024-10-23T23:56:37.144Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 3
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 2
+              }
+            ]
+          ],
+          "total": 8100
+        },
+        {
+          "compraId": 1729729098118,
+          "fecha": "2024-10-24T00:18:18.118Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 2
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 3
+              }
+            ]
+          ],
+          "total": 7900
+        },
+        {
+          "compraId": 1733086850430,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "usuario1",
+          "fecha": "2024-12-01T21:00:50.430Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 2,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              },
+              {
+                "id": "1912",
+                "name": "29190",
+                "price": "2190809",
+                "quantity": 1,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "Esquina Blanca  233 Maipu Metropolitana Chile",
+          "total": 2190909
+        },
+        {
+          "compraId": 1733090248958,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "usuario1",
+          "fecha": "2024-12-01T21:57:28.958Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 6,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "Esquina Blanca  233 Maipu Metropolitana Chile",
+          "total": 300
+        },
+        {
+          "compraId": 1733091518265,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "usuario1",
+          "fecha": "2024-12-01T22:18:38.265Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 6,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "Esquina Blanca  233 Maipu Metropolitana Chile",
+          "total": 300
+        },
+        {
+          "compraId": 1733091632888,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "usuario1",
+          "fecha": "2024-12-01T22:20:32.888Z",
+          "items": [
+            [
+              {
+                "id": "89218912",
+                "name": "20",
+                "price": "5000",
+                "quantity": 5,
+                "description": "Los Bosquinos Fuenzalida",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "Esquina Blanca  233 Maipu Metropolitana Chile",
+          "total": 25000
+        },
+        {
+          "id": 1733093569069,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "usuario1",
+          "fecha": "2024-12-01T22:52:49.069Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 3,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "Esquina Blanca  233 Maipu Metropolitana Chile",
+          "total": 150
+        }
+      ],
+      "direccion": {
+        "region": "Metropolitana",
+        "comuna": "Maipu",
+        "codigoPostal": "8700000",
+        "calle": "Esquina Blanca ",
+        "numeroCasa": "233"
+      }
+    },
+    {
+      "id": "2",
+      "username": "usuario2",
+      "password": "maipu1234",
+      "email": "usuario2@mail.cl",
+      "isactive": true,
+      "direccion": {
+        "region": "Metropolitana",
+        "comuna": "alalala",
+        "codigoPostal": "9090909",
+        "calle": "Lalalala",
+        "numeroCasa": "2349"
+      },
+      "historial": [
+        {
+          "compraId": 1729729162280,
+          "fecha": "2024-10-24T00:19:22.280Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 5
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 6
+              }
+            ]
+          ],
+          "total": 17500
+        }
+      ]
+    },
+    {
+      "id": "cc44",
+      "username": "juanmarchant",
+      "email": "juan@gmail.com",
+      "password": "probando123",
+      "isactive": true,
+      "historial": [
+        {
+          "compraId": 1729402250984,
+          "fecha": "2024-10-20T05:30:50.984Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 3
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 4
+              }
+            ]
+          ],
+          "total": 11100
+        },
+        {
+          "compraId": 1729402387004,
+          "fecha": "2024-10-20T05:33:07.004Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 2
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 3
+              }
+            ]
+          ],
+          "total": 7900
+        },
+        {
+          "compraId": 1729402513511,
+          "fecha": "2024-10-20T05:35:13.511Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 3
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 3
+              }
+            ]
+          ],
+          "total": 9600
+        },
+        {
+          "compraId": 1729404540220,
+          "fecha": "2024-10-20T06:09:00.220Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 3
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 2
+              }
+            ]
+          ],
+          "total": 8100
+        },
+        {
+          "compraId": 1729470481334,
+          "fecha": "2024-10-21T00:28:01.334Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 1
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 1
+              },
+              {
+                "id": "a3",
+                "name": 5,
+                "price": 1000,
+                "quantity": 1
+              }
+            ]
+          ],
+          "total": 4200
+        },
+        {
+          "compraId": 1729545574922,
+          "fecha": "2024-10-21T21:19:34.922Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 3
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 2
+              },
+              {
+                "id": "a3",
+                "name": 5,
+                "price": 1000,
+                "quantity": 2
+              }
+            ]
+          ],
+          "total": 10100
+        },
+        {
+          "compraId": 1729554117036,
+          "fecha": "2024-10-21T23:41:57.036Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 3
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 3
+              }
+            ]
+          ],
+          "total": 9600
+        },
+        {
+          "compraId": 1732751407133,
+          "fecha": "2024-11-27T23:50:07.133Z",
+          "items": [
+            [
+              {
+                "id": "a0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 3,
+                "description": "Los Bosquinos"
+              },
+              {
+                "id": "a1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 3,
+                "description": "Los Bosquinos"
+              },
+              {
+                "id": "b0",
+                "name": 20,
+                "price": 1700,
+                "quantity": 2,
+                "description": "Villa Los Heroes"
+              },
+              {
+                "id": "b1",
+                "name": 10,
+                "price": 1500,
+                "quantity": 4,
+                "description": "Villa Los Heroes"
+              }
+            ]
+          ],
+          "total": 19000
+        },
+        {
+          "compraId": 1732828711042,
+          "fecha": "2024-11-28T21:18:31.042Z",
+          "items": [
+            [
+              {
+                "id": "jdjd",
+                "name": "1000",
+                "price": "1000",
+                "quantity": 4,
+                "description": "Los Bosquinos"
+              }
+            ]
+          ],
+          "total": 4000
+        },
+        {
+          "compraId": 1732828845503,
+          "fecha": "2024-11-28T21:20:45.503Z",
+          "items": [
+            [
+              {
+                "id": "asdklasdjkl",
+                "name": "50",
+                "price": "5000",
+                "quantity": 5,
+                "description": "Los Bosquinos"
+              }
+            ]
+          ],
+          "total": 25000
+        },
+        {
+          "compraId": 1732918508552,
+          "fecha": "2024-11-29T22:15:08.552Z",
+          "items": [
+            [
+              {
+                "id": "99910",
+                "name": "30",
+                "price": "2000",
+                "quantity": 4,
+                "description": "Los Bosquinos"
+              }
+            ]
+          ],
+          "total": 8000
+        },
+        {
+          "compraId": 1732988943546,
+          "fecha": "2024-11-30T17:49:03.546Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 5,
+                "description": "Los Bosquinos"
+              }
+            ]
+          ],
+          "total": 250
+        },
+        {
+          "compraId": 1733076033858,
+          "fecha": "2024-12-01T18:00:33.858Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 4,
+                "description": "Los Bosquinos"
+              }
+            ]
+          ],
+          "total": 200
+        },
+        {
+          "id": 1733096942344,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-01T23:49:02.344Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 5,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 250
+        },
+        {
+          "id": 1733097045456,
+          "compraIdFuente": "674c7cb610452f7770a78cd7",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-01T23:50:45.456Z",
+          "items": [
+            [
+              {
+                "id": "abc3",
+                "name": "111",
+                "price": "111",
+                "quantity": 4,
+                "description": "Aguas Antito",
+                "code": "674c7cb610452f7770a78cd7"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 444
+        },
+        {
+          "id": 1733097716881,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T00:01:56.881Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 3,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 150
+        },
+        {
+          "id": 1733097902973,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T00:05:02.973Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 4,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 200
+        },
+        {
+          "id": 1733100017009,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T00:40:17.009Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 4,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 200
+        },
+        {
+          "id": 1733100342629,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T00:45:42.629Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 5,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 250
+        },
+        {
+          "id": 1733100469039,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T00:47:49.039Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 5,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 250
+        },
+        {
+          "id": 1733100855440,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T00:54:15.440Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 5,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 250
+        },
+        {
+          "id": 1733100904849,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T00:55:04.849Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 5,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 250
+        },
+        {
+          "id": 1733102176985,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T01:16:16.985Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 4,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 200
+        },
+        {
+          "id": 1733102379783,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T01:19:39.783Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 6,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 300
+        },
+        {
+          "id": 1733102438467,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T01:20:38.467Z",
+          "items": [
+            [
+              {
+                "id": "1912",
+                "name": "29190",
+                "price": "2190809",
+                "quantity": 3,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 6572427
+        },
+        {
+          "id": 1733102574873,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T01:22:54.873Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 9,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 450
+        },
+        {
+          "id": 1733102806051,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T01:26:46.051Z",
+          "items": [
+            [
+              {
+                "id": "jolito",
+                "name": "100",
+                "price": "10000",
+                "quantity": 3,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 30000
+        },
+        {
+          "id": 1733103897509,
+          "compraIdFuente": "674d0dbabfed3e0cec4acf51",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T01:44:57.509Z",
+          "items": [
+            [
+              {
+                "id": "a1",
+                "name": "10",
+                "price": "1000",
+                "quantity": 3,
+                "description": "Aguas Jolito",
+                "code": "674d0dbabfed3e0cec4acf51"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 3000
+        },
+        {
+          "id": 1733144706365,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-02T13:05:06.365Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 3,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              },
+              {
+                "id": "1912",
+                "name": "29190",
+                "price": "2190809",
+                "quantity": 3,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              },
+              {
+                "id": "89218912",
+                "name": "20",
+                "price": "2000",
+                "quantity": 2,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 6576577
+        },
+        {
+          "id": 1733348847508,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-04T21:47:27.508Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 5,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 250
+        },
+        {
+          "id": 1733348886935,
+          "compraIdFuente": "673d3cfcba6a3270d3cc5e69",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-04T21:48:06.935Z",
+          "items": [
+            [
+              {
+                "id": "testing",
+                "name": "30",
+                "price": "50",
+                "quantity": 5,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              },
+              {
+                "id": "1912",
+                "name": "29190",
+                "price": "2190809",
+                "quantity": 3,
+                "description": "Los Bosquinos",
+                "code": "673d3cfcba6a3270d3cc5e69"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 6572677
+        },
+        {
+          "id": 1733351772047,
+          "compraIdFuente": "6750d8036668004f4562d8e1",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-04T22:36:12.047Z",
+          "items": [
+            [
+              {
+                "id": "a101",
+                "name": "15",
+                "price": "1000",
+                "quantity": 6,
+                "description": "Sebastian Aguita",
+                "code": "6750d8036668004f4562d8e1"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 6000
+        },
+        {
+          "id": 1733351882828,
+          "compraIdFuente": "6750d8036668004f4562d8e1",
+          "estado": "Pendiente",
+          "name": "juanmarchant",
+          "fecha": "2024-12-04T22:38:02.828Z",
+          "items": [
+            [
+              {
+                "id": "a101",
+                "name": "15",
+                "price": "1000",
+                "quantity": 4,
+                "description": "Sebastian Aguita",
+                "code": "6750d8036668004f4562d8e1"
+              }
+            ]
+          ],
+          "direction": "San Juan De la Cruz 1150 Maipu Metropolitana Chile",
+          "total": 4000
+        }
+      ],
+      "direccion": {
+        "region": "Metropolitana",
+        "comuna": "Maipu",
+        "codigoPostal": "8720000",
+        "calle": "San Juan De la Cruz",
+        "numeroCasa": "1150"
+      }
+    },
+    {
+      "id": "5637",
+      "username": "sebastiandelavega",
+      "email": "sebastian@gmail.com",
+      "password": "sebastian123",
+      "isactive": true
+    },
+    {
+      "id": "c778",
+      "username": "test123",
+      "email": "test@gmail.com",
+      "password": "testing123",
+      "historial": [],
+      "isactive": true
+    },
+    {
+      "id": "3483",
+      "username": "papito",
+      "email": "papito@gmail.com",
+      "password": "test1234",
+      "historial": [],
+      "isactive": true
+    }
+  ]
+}
